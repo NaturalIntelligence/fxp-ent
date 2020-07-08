@@ -11,6 +11,8 @@ Fast XML Parser and HTML DOM Parser Enterprise edition
 7. HTML DOM Parsing
 8. Proper CDATA response
 9. Array mode and preserve sequence modes are gracefully handled
+10. JSON to XML parser arraymode and preserveOrder
+11. support for plist format
 
 
 Term & Conditions
